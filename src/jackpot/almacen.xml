@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<almacen>
+    <FechaYHora></FechaYHora>
+    <Saldo></Saldo>
+    <Deposito></Deposito>
+    <Premio></Premio>
+</almacen>
